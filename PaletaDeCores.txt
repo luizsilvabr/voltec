@@ -1,0 +1,3 @@
+Azul: #5f9bd6
+Cinza: #576680
+Branco: #FFF
